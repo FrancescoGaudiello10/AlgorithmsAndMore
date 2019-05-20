@@ -11,17 +11,17 @@ object Fibonacci extends App{
 
 
     //Prove:
-    println(fibo(0))
-    println(fibo(1))
-    println(fibo(2))
-    println(fibo(3))
-    println(fibo(4))
-    println(fibo(5))
-    println(fibo(6))
-    println(fibo(7))
-    println(fibo(8))
-    println(fibo(9))
-    println(fibo(10))
-    println(fibo(11))
+    println("F(0) => "+fibo(0))
+    println("F(1) => "+fibo(1))
+    println("F(2) => "+fibo(2))
+    println("F(3) => "+fibo(3))
+    println("F(4) => "+fibo(4))
+    println("F(5) => "+fibo(5))
+    println("F(6) => "+fibo(6))
+    println("F(7) => "+fibo(7))
+    println("F(8) => "+fibo(8))
+    println("F(9) => "+fibo(9))
+    println("F(10) => "+fibo(10))
+    println("F(11) => "+fibo(11))
 }
 
