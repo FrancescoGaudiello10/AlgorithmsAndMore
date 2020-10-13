@@ -1,4 +1,4 @@
-# 💻 AlgorithmsAndMore 💻
+# 💻 Algoritmi.More 💻
 
 
 #### **Una repo dove sono presenti codici e algoritmi in diversi linguaggi (C, Java, Python, Scala, Swift) occasionalmente aggiornata.
